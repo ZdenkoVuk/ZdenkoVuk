@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ExpressJS
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me -> zdenko.vuk@nudge-labs.com
-- 😄 Pronouns: mr.Zdenko
+- 😄 Pronouns: Mr. Zdenko
 - ⚡ Fun fact: Gummy bears were originally called "dancing bears"
 
 <!---
