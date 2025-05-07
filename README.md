@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZdenkoVuk
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ExpressJS
-- 📫 How to reach me -> zdenko.vuk@nudge-labs.com
+- 🌱 I’m currently learning Nestjs
+- 📫 How to reach me -> zdenevi@gmail.com
 - 😄 Pronouns: Mr. Zdenko
 - ⚡ Fun fact: Gummy bears were originally called "dancing bears"
 
